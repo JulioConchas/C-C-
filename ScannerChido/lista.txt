@@ -1,0 +1,1 @@
+var pi, radio, radio1;pi: 3.14159;get radio;get radio1;get c;var ok;ok: radio < radio1 & (c >= 2 * pi * radio & c <= 2 * pi * radio1 ? true: false);put ok.
