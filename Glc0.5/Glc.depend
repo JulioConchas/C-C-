@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1437169053 source:c:\users\daniel\desktop\seleneprogram\glc\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cctype>
+	"Glc.h"
+
+1437169460 c:\users\daniel\desktop\seleneprogram\glc\glc.h
+
+1437187141 source:c:\users\daniel\desktop\seleneprogram\glc\glc.cpp
+	<cstdlib>
+	<cstdio>
+	<cctype>
+	"Glc.h"
+
