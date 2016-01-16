@@ -1,0 +1,12 @@
+<Alloy>
+    <Collection src="Fugitive" />
+    <Tab id="fugitiveTab" title="Fugitives">
+        <Window id="fugitiveWindow"  title="Fugitives" class='container'>
+            <TableView id="table" dataCollection="Fugitive" dataFilter="dofilter" >
+                <Require src="FugitiveRow"/>
+            </TableView>
+            <!-- iOS navbar button, hidden and used later -->
+            <Button id="add" title="Add" top="-50dp" platform="ios"></Button>
+        </Window>
+    </Tab>
+</Alloy>

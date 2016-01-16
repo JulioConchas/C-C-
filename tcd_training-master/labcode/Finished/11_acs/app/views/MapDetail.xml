@@ -1,0 +1,5 @@
+<Alloy>
+<Window id="mapWindow">
+		<View ns="Alloy.Globals.Map" id="mapView"/>
+	</Window>
+</Alloy>

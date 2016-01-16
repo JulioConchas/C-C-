@@ -1,0 +1,7 @@
+<Alloy>
+  <Window class='container' id="win">
+  	<View id="mapview" ns="Alloy.Globals.Map" id="map"></View>
+    <View id="dividerLine"/>
+  	<View id="mapview" ns="Alloy.Globals.Map" id="map1"></View>
+  </Window>
+</Alloy>
